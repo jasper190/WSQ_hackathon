@@ -4,7 +4,9 @@ comparing their similarity coefficient with the next nearest neighbour
 
 The model's permise works based on given OCEAN personality type, ( https://en.wikipedia.org/wiki/Big_Five_personality_traits ),
 it will match one jobseeker another individual with the top 3 closest similarity score, and suggest to the person, the 3 closest
-job roles and industry, that the person could consider looking at, as in today's market, jobs are consistently changing, and with
+job roles and industry, that the person could consider looking at 
+
+Because in today's market, jobs are consistently changing, and with
 a large enough dataset, a person may discover a new industry or a profession, that they might not have considered previously, due to
 lack of information
 
