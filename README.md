@@ -14,7 +14,7 @@ the critical mass point, we believe that the model would grow more accurate
 Recommender systems are not new, they have been used by places such as netflix and amazon, to recommend similar products to consumers, 
 but we considered this as a new use case
 
-< For implemtation > \n
+< For implemtation > 
 The dataset would be collected by a workforce counselor, or in an ideal situation, would be automatically collected via an online
 game that derives the score,  currently, we are using an anonymized dataset to run the simulation
 
